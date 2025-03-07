@@ -26,7 +26,7 @@ Installation and Setup
 
 Clone the repository:
 
-git clone https://github.com/Sinethemba7vitsha/UApply.git
+git clone https://github.com/QueenKamanga/UApply.git
 
 Open the project in Visual Studio.
 
